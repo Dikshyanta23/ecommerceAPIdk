@@ -1,10 +1,1 @@
-
-A fully fledged API for an e-commerce web application.
-
-Some of the features of the API are:
-- Proper authentication feature.
-- Protected database management using mongo.
-- CRUD application on models User, Product, Orders and Reviews.
-
-
-The link to the hosted API is https://ecommerceapidk.onrender.com/.
+"EcommerceAPIdk" is a comprehensive ecommerce API developed using Node.js, designed to facilitate various user functions. It features robust authentication mechanisms and admin privileges. Users can perform CRUD operations on products, as well as write and rate reviews. User sessions are securely managed with cookies. Advanced filtering and sorting of products are implemented using MongoDB pipelines. The API documentation is created with Docgen, providing interactive live requests for user convenience. The fully functional API is hosted on Render and can be accessed at https://ecommerceapidk.onrender.com.
